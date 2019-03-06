@@ -10,9 +10,7 @@ const person = (props) => {
 };
 
 //children is a reserved word.
-
 //execute one line expressions. can use functions if we need more complex information
-
 //this is a function that returns some jsx
 //also have to do the imports and exports
 
@@ -20,5 +18,4 @@ export default person;
 
 
 /// components are awesome because they are small and maintainable, configurable, and reusable
-
 //should be dynamic depending on user input

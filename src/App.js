@@ -8,6 +8,7 @@ class App extends Component {
       <div className='App'>
         <h1>jsx is javascript that gets compiled to createElement's</h1>
         <p>This is a paragraph</p>
+        <button>Switch Name</button>
         <Person name="James" age="35" hobbies="sky diving" /> 
         <Person name="Johnson" age="75"/> 
         <Person name="Harrison" age="20"/> 
